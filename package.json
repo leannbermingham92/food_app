@@ -4,7 +4,7 @@
   "description": "demo-app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "leann",
   "license": "ISC",
@@ -16,5 +16,8 @@
     "mongodb": "^4.1.0",
     "mongoose": "^5.13.5",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
   }
 }
