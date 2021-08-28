@@ -1,6 +1,6 @@
 let config = {
     dbUrl:
-        'mongodb+srv://lee92ann:Leafeater1!@cluster0.xq6gl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+        'mongodb+srv://lee92ann:PassWord@cluster0.xq6gl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
 
 };
 
